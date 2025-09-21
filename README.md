@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eng-magdwahbi/Eng-magdwahbi/output/snake.svg" alt="Snake animation" />
-
-###
